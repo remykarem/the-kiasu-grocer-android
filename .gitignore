@@ -1,0 +1,10 @@
+*.iml
+.idea
+.gradle
+local.properties
+build
+app/google-services.json
+.DS_Store
+_DS_Store
+*.apk
+release
